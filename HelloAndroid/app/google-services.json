@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541765511120",
+    "project_id": "wildanimalalarm",
+    "storage_bucket": "wildanimalalarm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541765511120:android:8eb176deb0b4bf9a5cbbd5",
+        "android_client_info": {
+          "package_name": "com.example.helloandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZToMsTamO457K_BZ2LGwVYkXERN0GCXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
